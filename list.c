@@ -34,7 +34,7 @@ void prepend(Node** head, int data) {
 
 void insert_after(Node* prev_node, int data) {
     if (prev_node == NULL) {
-        printf("Poprzedni węzeł nie może być NULL\n");
+        printf("Last node can not be NULL\n");
         return;
     }
 
@@ -108,4 +108,17 @@ Node* search(Node* head, int key) {
         current = current->next;
     }
     return NULL;
+}
+
+void delete_list(Node** head) {
+    Node* current = *head;
+    Node* next;
+
+    while (current != NULL) {
+        next = current->next;
+        free(current);
+        current = next;
+    }
+
+    *head = NULL;
 }
