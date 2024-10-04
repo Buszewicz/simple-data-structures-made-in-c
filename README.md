@@ -1,2 +1,2 @@
-# simple-linked-list
-Simple linked list made in c
+# Date structures made in c
+feel free to use
