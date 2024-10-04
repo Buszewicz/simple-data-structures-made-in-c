@@ -3,6 +3,7 @@
 
 int main() {
     Node* list = create_list();
+    append(&list, 1);
     delete_list(&list);
     return 0;
 }
