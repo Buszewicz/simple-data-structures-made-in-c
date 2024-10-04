@@ -7,7 +7,7 @@ Node* create_list() {
 }
 
 void append(Node** head, int data) {
-    Node* new_node = (Node*)malloc(sizeof(Node));
+    Node* new_node = malloc(sizeof(Node));
     Node* last = *head;
 
     new_node->data = data;
