@@ -5,4 +5,8 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(simple_linked_list main.c
         list.c
-        list.h)
+        list.h
+        stack.cpp
+        stack.h
+        queue.cpp
+        queue.h)
