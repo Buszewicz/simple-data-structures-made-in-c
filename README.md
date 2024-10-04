@@ -1,2 +1,2 @@
-# Date structures made in c
+# Data structures made in c
 feel free to use
