@@ -36,5 +36,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributing
 
 Contributions are welcome! If you'd like to improve the project or add features, feel free to submit a pull request or open an issue.
+### Author
 
-    Author: [@Buszewicz](https://www.github.com/Buszewicz)
+   - [@Buszewicz](https://www.github.com/Buszewicz)
