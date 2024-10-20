@@ -4,8 +4,8 @@ project(simple_data_structures C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(simple_data_structures main.c
-        list.c
-        list.h
+        List/list.c
+        List/list.h
         stack.c
         stack.h
         queue.c
