@@ -1,6 +1,0 @@
-# ninja log v6
-8	44	7497749431606193	CMakeFiles/simple_data_structures.dir/stack.c.obj	898a443032ea2bac
-12	57	7511394161013924	CMakeFiles/simple_data_structures.dir/main.c.obj	1fd220475b39cdfb
-12	66	7511395210259726	CMakeFiles/simple_data_structures.dir/list.c.obj	d314b82b1aef9629
-67	136	7511395210820162	simple_data_structures.exe	6033b79a9697e754
-11	45	7497749431636214	CMakeFiles/simple_data_structures.dir/queue.c.obj	faab32b4d53ad07e
