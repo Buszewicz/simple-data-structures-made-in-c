@@ -43,7 +43,7 @@ int dequeue(Queue* queue) {
     return data;
 }
 
-int peek(Queue* queue) {
+int queue_peek(Queue* queue) {
     if (queue->front == NULL) {
         printf("Queue is empty.\n");
         return -1;
@@ -51,7 +51,7 @@ int peek(Queue* queue) {
     return queue->front->data;
 }
 
-int is_empty(Queue* queue) {
+int is_queue_empty(Queue* queue) {
     return queue->front == NULL;
 }
 

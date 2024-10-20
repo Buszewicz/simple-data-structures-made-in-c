@@ -6,7 +6,8 @@ set(CMAKE_C_STANDARD 11)
 add_executable(simple_data_structures main.c
         List/list.c
         List/list.h
-        stack.c
-        stack.h
-        queue.c
-        queue.h)
+        Stack/stack.c
+        Stack/stack.h
+        Queue/queue.c
+        Queue/queue.h
+        Stack/stack.c)
