@@ -37,4 +37,4 @@ Contributing
 
 Contributions are welcome! If you'd like to improve the project or add features, feel free to submit a pull request or open an issue.
 
-    Author: Filip Buszewicz 
+    Author: [@Buszewicz](https://www.github.com/Buszewicz)
